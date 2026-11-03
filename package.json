@@ -1,0 +1,30 @@
+{
+  "name": "qa-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for QA engineers: user story -> test cases -> tracker upload -> locators -> POM automation project -> git push -> run -> Allure report (Jira & Azure DevOps, GitHub & Azure Repos)",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "qa-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "dev": "tsc -w -p tsconfig.json",
+    "inspect": "npx @modelcontextprotocol/inspector node dist/index.js",
+    "postinstall": "playwright install chromium || echo \"Playwright browser install skipped\""
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "playwright": "^1.55.0",
+    "simple-git": "^4.0.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}

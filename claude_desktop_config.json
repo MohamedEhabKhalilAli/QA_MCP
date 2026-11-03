@@ -1,0 +1,241 @@
+{
+  "mcpServers": {
+    "qa-mcp": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "F:\\Automation\\QA_MCP\\dist\\index.js"
+      ]
+    }
+  },
+  "coworkUserFilesPath": "C:\\Users\\MohamedEhab\\Claude",
+  "preferences": {
+    "coworkBrowserToolsEnabled": true,
+    "coworkPreferredBrowser": "built_in",
+    "launchPreviewPersistedWorkspaces": [
+      "cowork-shared"
+    ],
+    "launchPreviewSessionScopedSessions": [],
+    "launchChromeImportPrompt": "done",
+    "localAgentModeTrustedFolders": [
+      "F:\\Automation\\APM",
+      "F:\\Automation\\Convert_JMeter_Report_PDF",
+      "F:\\Automation\\MTN_Security_API_Scan",
+      "F:\\Automation\\QA_MCP"
+    ],
+    "remoteSessionFolderGrants": {
+      "session_01KsMmvdw2cBtVCdu7STwtQy": [
+        "F:\\My Company\\Website"
+      ],
+      "session_019FF73AjbXHdaXsR3TozNqG": [
+        "F:\\My Company\\Website"
+      ],
+      "session_01Rr1r7rJRXD3BVnmZbqgaPp": [
+        "F:\\QC Team Allocation"
+      ],
+      "session_01XpEjwaX4owf4mFNUvh3xnW": [
+        "F:\\My Company\\Website"
+      ],
+      "session_01U7ywCYEp8Hww8FSyuN8aYC": [
+        "F:\\Automation\\MerchantApp-Android"
+      ],
+      "session_018sTy5kQotwLEru9pB7iNbj": [
+        "F:\\Automation\\APM"
+      ],
+      "session_0188d69vckfQuPSDEVXthmnw": [
+        "F:\\Local Disk E\\DBA\\Claude Thesis\\Thesis"
+      ],
+      "session_018K6CH3V4BDTMhHLW1j963E": [
+        "F:\\Local Disk E\\DBA\\Claude Thesis\\Thesis"
+      ]
+    },
+    "remoteChatFolderGrants": {
+      "a795812e-9ab4-4c31-a378-11132fb8077f": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "folders": [
+          "F:\\Local Disk E\\DBA\\Claude Thesis\\Thesis"
+        ]
+      },
+      "604281a1-b249-4198-9c0b-f4c707663ff2": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "folders": [
+          "C:\\Users\\MohamedEhab\\Desktop\\Jmeter Report To PDF"
+        ]
+      },
+      "bcd8ac6f-fe60-49c1-b35e-4fae2b0f4ed7": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "folders": [
+          "F:\\Automation\\Convert_JMeter_Report_PDF",
+          "C:\\Users\\MohamedEhab\\Desktop\\Jmeter Report To PDF\\report"
+        ]
+      },
+      "a9fe5692-2b9c-4198-a17d-99cdcf51b3e2": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "folders": [
+          "F:\\Automation\\MTN_Security_API_Scan"
+        ]
+      },
+      "1fadb2b8-9687-4eef-b073-3503409fb43c": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "folders": [
+          "F:\\Automation\\QA_MCP"
+        ]
+      }
+    },
+    "remoteChatFolderAccessReports": {
+      "a795812e-9ab4-4c31-a378-11132fb8077f": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "generation": 1792312592709,
+        "digest": "yN3F14ceexqeXURP1wa0zf",
+        "settled": true
+      },
+      "604281a1-b249-4198-9c0b-f4c707663ff2": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "generation": 1792312592709,
+        "digest": "9Vyu3DwvhYaE4xyaVLxTT0",
+        "settled": true
+      },
+      "bcd8ac6f-fe60-49c1-b35e-4fae2b0f4ed7": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "generation": 1792313508607,
+        "digest": "a-LMkpUtRbwGUWbp1dkCg1",
+        "settled": true
+      },
+      "a9fe5692-2b9c-4198-a17d-99cdcf51b3e2": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "generation": 1792921218014,
+        "digest": "TgkIlNrz3iI0fJx28dyYVW",
+        "settled": true
+      },
+      "1fadb2b8-9687-4eef-b073-3503409fb43c": {
+        "orgUuid": "7601ac6e-7d66-406f-b674-631a43100843",
+        "accountUuid": "f2cb4d8f-27ba-49a3-a712-10a367d600ba",
+        "generation": 1793005868509,
+        "digest": "mibCBOnurchE3BiD-OuQpj",
+        "settled": true
+      }
+    },
+    "remoteChatFolderAdoptionChecked": [
+      "session_01KsMmvdw2cBtVCdu7STwtQy",
+      "session_019FF73AjbXHdaXsR3TozNqG",
+      "session_01Rr1r7rJRXD3BVnmZbqgaPp",
+      "session_01XpEjwaX4owf4mFNUvh3xnW",
+      "session_018sTy5kQotwLEru9pB7iNbj",
+      "session_01U7ywCYEp8Hww8FSyuN8aYC",
+      "session_0188d69vckfQuPSDEVXthmnw",
+      "session_018K6CH3V4BDTMhHLW1j963E"
+    ],
+    "coworkLegacyRootGrantsPruned": true,
+    "coworkScheduledTasksEnabled": true,
+    "coworkHipaaRestricted": false,
+    "orgWorkAcrossAppsDisabled": false,
+    "ccdScheduledTasksEnabled": true,
+    "httpCacheZstdLatched": true,
+    "userDataOutsidePackageAnswer": true,
+    "sidebarMode": "chat",
+    "bypassPermissionsGateByAccount": {
+      "f2cb4d8f-27ba-49a3-a712-10a367d600ba": false
+    },
+    "coworkWebSearchEnabled": true,
+    "coworkModelAutoFallbackByAccount": {
+      "f2cb4d8f-27ba-49a3-a712-10a367d600ba": true
+    },
+    "chicagoEnabled": true,
+    "remoteToolsDeviceName": "eg-qc-mohmedehab",
+    "epitaxyPrefs": {
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [
+        "f0bfa879-ffd5-429a-911b-584c3196475c"
+      ],
+      "starred-session-groups": [],
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "homeProjectsPinnedOrder": []
+      },
+      "ccd-sessions-filter": {
+        "state": {
+          "selectedProjects": []
+        },
+        "version": 0
+      },
+      "desktop-frame.paneStore.v1": {
+        "state": {
+          "extraPanesByMode": {},
+          "colWeightsByMode": {},
+          "rowSplit": 0.5,
+          "draftNonce": 0,
+          "lastPrimaryCodeSession": null
+        },
+        "version": 4
+      },
+      "dframe-group-scopes": {},
+      "starred-local-routines": [],
+      "dframe-code-sections": {
+        "f2cb4d8f-27ba-49a3-a712-10a367d600ba/7601ac6e-7d66-406f-b674-631a43100843": {
+          "sections": [
+            {
+              "id": "pinned",
+              "kind": "pinned",
+              "v": 2,
+              "name": "",
+              "order": 0,
+              "sortBy": "recency",
+              "ascending": false,
+              "show": {
+                "metadata": false,
+                "emptyGroups": false,
+                "sideChats": false
+              },
+              "collapsed": false,
+              "shown": true
+            },
+            {
+              "id": "routines",
+              "kind": "routines",
+              "v": 2,
+              "name": "",
+              "order": 1,
+              "sortBy": "recency",
+              "ascending": false,
+              "show": {
+                "metadata": false,
+                "emptyGroups": false,
+                "sideChats": false
+              },
+              "collapsed": true,
+              "shown": false
+            },
+            {
+              "id": "sessions",
+              "kind": "sessions",
+              "v": 2,
+              "name": "",
+              "order": 2,
+              "sortBy": "recency",
+              "ascending": false,
+              "show": {
+                "metadata": false,
+                "emptyGroups": false,
+                "sideChats": false
+              },
+              "collapsed": false,
+              "shown": true
+            }
+          ],
+          "migratedFrom": 1,
+          "prefsSeeded": true
+        }
+      },
+      "epitaxy-transcript-links-in-preview": true,
+      "epitaxy-transcript-links-chooser-seen": true
+    }
+  }
+}
